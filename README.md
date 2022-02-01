@@ -3,7 +3,7 @@ Ruimtelijke figuren
 
 Dit was mijn eerste opdracht in python naast de opdrachten in het boek "Crash Course Programmere in Python". \
 De bedoeling van deze opdracht was om mij bekend te raken met de syntax van python en dingen \
-die ik nog niet kende vanuit Small Basic zoals classes en hun definities. 
+die ik nog niet kende vanuit Small Basic zoals classes en definities. 
 
 
 Opdracht
